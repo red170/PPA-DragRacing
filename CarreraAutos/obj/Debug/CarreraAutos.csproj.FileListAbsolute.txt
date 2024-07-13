@@ -1,0 +1,15 @@
+c:\users\gerardo\documents\visual studio 2013\Projects\CarreraAutos\CarreraAutos\bin\Debug\CarreraAutos.exe.config
+C:\Users\Gerardo\documents\visual studio 2013\Projects\CarreraAutos\CarreraAutos\bin\Debug\CarreraAutos.exe
+C:\Users\Gerardo\documents\visual studio 2013\Projects\CarreraAutos\CarreraAutos\bin\Debug\CarreraAutos.pdb
+C:\Users\Gerardo\documents\visual studio 2013\Projects\CarreraAutos\CarreraAutos\obj\Debug\CarreraAutos.Form1.resources
+C:\Users\Gerardo\documents\visual studio 2013\Projects\CarreraAutos\CarreraAutos\obj\Debug\CarreraAutos.Properties.Resources.resources
+C:\Users\Gerardo\documents\visual studio 2013\Projects\CarreraAutos\CarreraAutos\obj\Debug\CarreraAutos.csproj.GenerateResource.Cache
+C:\Users\Gerardo\documents\visual studio 2013\Projects\CarreraAutos\CarreraAutos\obj\Debug\CarreraAutos.exe
+C:\Users\Gerardo\documents\visual studio 2013\Projects\CarreraAutos\CarreraAutos\obj\Debug\CarreraAutos.pdb
+C:\Users\Gerardo\documents\visual studio 2013\Projects\CarreraAutos\CarreraAutos\obj\Debug\CarreraAutos.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo\documents\visual studio 2013\Projects\CarreraAutos\CarreraAutos\obj\Debug\CarreraAutos.SeleccionAutos.resources
+C:\Users\Gerardo\documents\visual studio 2013\Projects\CarreraAutos\CarreraAutos\obj\Debug\CarreraAutos.Carrera.resources
+C:\Users\Gerardo\documents\visual studio 2013\Projects\CarreraAutos\CarreraAutos\obj\Debug\CarreraAutos.Menu1.resources
+E:\CarreraAutos\bin\Debug\CarreraAutos.exe.config
+E:\CarreraAutos\obj\Debug\CarreraAutos.exe
+E:\CarreraAutos\obj\Debug\CarreraAutos.pdb
